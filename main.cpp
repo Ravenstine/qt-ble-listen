@@ -1,4 +1,3 @@
-#include <QtCore>
 #include <QDebug>
 #include <QString>
 #include <QObject>
